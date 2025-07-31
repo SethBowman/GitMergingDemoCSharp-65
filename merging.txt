@@ -1,2 +1,3 @@
 Hello class!
 Let's learn about Git Branching and Merging
+Line three from the test branch
